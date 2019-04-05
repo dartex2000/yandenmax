@@ -1,2 +1,2 @@
-printf ("hello world!")
-print("hello everybody")
+printf ("hello world!;")
+print("hello everybody;")
