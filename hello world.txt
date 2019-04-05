@@ -1,4 +1,8 @@
-printf ("hello world!")
-print("hello everybody")
-print("hello my dear friend")
-print("Glad to see you")
+printf ("hello world!;")
+print("hello everybody;")
+print("hello my dear friend;")
+print("Glad to see you;")
+=======
+printf ("hello world!;")
+print("hello everybody;")
+>>>>>>> master
